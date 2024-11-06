@@ -1,0 +1,1 @@
+export type PersonalityButton = {string:'Líder'| 'Criativo'| 'Analítico'| 'Sociável'| 'Aventureiro'};
