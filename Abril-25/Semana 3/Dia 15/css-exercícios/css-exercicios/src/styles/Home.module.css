@@ -1,0 +1,15 @@
+/* Home.module.css */
+.container {
+  background-color: lightgreen;
+  min-height: 100vh; /* Para preencher a tela inteira */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Media query para telas menores que 600px */
+@media (max-width: 600px) {
+  .container {
+    background-color: lightblue;
+  }
+}
