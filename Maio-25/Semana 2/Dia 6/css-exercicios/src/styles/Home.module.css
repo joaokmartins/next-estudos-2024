@@ -1,0 +1,43 @@
+  /* exercícios do dia
+  .box {
+  background-color: lightcoral;
+  width: 100px;
+  padding: 20px;
+  border: 5px solid black;
+  margin: 10px;
+}
+
+
+.relative {
+  position: relative;
+  left: 20px;
+  top: 10px;
+}
+
+.absolute {
+  position: relative;
+  top: 50px;
+  right: 30px;
+}
+
+.fixed {
+  position: fixed;
+  bottom: 0;
+  right:0;
+}
+
+
+**The original exercise contains "transition-box", but it cannot render. So, I changed to "transition".
+  
+ .transition {
+  width: 100px;
+  height: 100px;
+  background-color: tomato;
+  transition: width 2s, background-color 2s eae-in-out;
+ }
+
+ .transition:hover {
+  width: 200px;
+  background-color: skyblue;
+ }
+ */
