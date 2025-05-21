@@ -1,0 +1,38 @@
+  .forminput {
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius:4px
+  }
+
+  .submitbutton {
+    padding: 10px 15px;
+    background-color: dodgerblue;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+
+  .submitbutton:hover{
+    background-color: deepskyblue;
+  }
+  
+  
+  /* exercícios do dia
+  
+  .gridcontainer {
+  display: grid;
+  grid-template-columns: repeat(3, 1lr);
+  grid-gap: 10px;
+  padding: 10px;
+}
+
+.griditem {
+  background-color: rgba(255, 218, 185, 0.8);
+  padding: 20px;
+  text-align: center;
+  border: 1px solid salmon;
+}
+
+*/
